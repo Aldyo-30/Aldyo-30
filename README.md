@@ -21,7 +21,7 @@ I’m passionate about building creative and functional web applications. I enjo
 
 ## 🛠 Tech Stack
 
-#### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,laravel,php,react&perline=5)](https://skillicons.dev)
@@ -30,14 +30,14 @@ I’m passionate about building creative and functional web applications. I enjo
 
 
 
-#### ⚙️Tools & Platforms
+### ⚙️Tools & Platforms
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode," />
   </a>
 </p>
 
-#### 🧰 Databases
+### 🧰 Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" />
