@@ -7,6 +7,16 @@ I’m passionate about building creative and functional web applications. I enjo
 💡 I love solving problems, learning continuously, and collaborating with awesome people.   
 🎯 My mission: keep improving, keep building, and keep sharing knowledge.
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 ## 🛠 Tech Stack
@@ -54,15 +64,7 @@ I’m passionate about building creative and functional web applications. I enjo
 </div>
 
 ---
-### Enjoy
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aldyo-30/Aldyo-30/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 ---
 
