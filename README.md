@@ -17,7 +17,7 @@ I’m passionate about building creative and functional web applications. I enjo
 
 ###
 
----
+
 
 ## 🛠 Tech Stack
 💻 **Languages & Frameworks** 
@@ -41,7 +41,6 @@ I’m passionate about building creative and functional web applications. I enjo
   </a>
 </p>
 
----
 
 
 ## 📊 GitHub Stats
@@ -51,7 +50,6 @@ I’m passionate about building creative and functional web applications. I enjo
 </div>
 
 
----
 ## 🌐 Connect with Me
 
 <div align="center">
