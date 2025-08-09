@@ -24,7 +24,7 @@ I’m passionate about building creative and functional web applications. I enjo
 ### 💻 Languages & Frameworks
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,laravel,php,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,java,laravel,php,react,python&perline=5)](https://skillicons.dev)
 </div>
 
 
