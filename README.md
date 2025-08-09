@@ -66,8 +66,6 @@ I’m passionate about building creative and functional web applications. I enjo
 ---
 
 
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aldyo-30.Aldyo-30&"  />
 </div>
