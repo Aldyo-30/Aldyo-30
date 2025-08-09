@@ -47,6 +47,8 @@ I’m passionate about building creative and functional web applications. I enjo
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aldyo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellymon-aldyo-pranadi) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31st3gksuwk6hrpiuhujnj66okma?si=6d4c6cb8f8a1472f)
+
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31st3gksuwk6hrpiuhujnj66okma&unique={true|1|on|yes})
 
 </div>
